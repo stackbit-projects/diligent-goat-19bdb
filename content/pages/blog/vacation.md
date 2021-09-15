@@ -13,6 +13,7 @@ seo:
   robots: []
   extra: []
 layout: post
+title: 'Thailand: The '
 ---
 ## Lorem ipsum
 
