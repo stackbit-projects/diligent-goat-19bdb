@@ -13,6 +13,7 @@ seo:
   robots: []
   extra: []
 layout: post
+title: إيجابيات وسلبيات شراء منزل جديد تحت الإنشاء في البحرين
 ---
 ## Lorem ipsum
 
