@@ -1,5 +1,5 @@
 ---
-subtitle: lorem-ipsum
+subtitle: سوق العقارات في البحرين
 date: '2021-09-15'
 categories: []
 tags: []
