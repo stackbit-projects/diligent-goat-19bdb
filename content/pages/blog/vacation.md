@@ -13,7 +13,7 @@ seo:
   robots: []
   extra: []
 layout: post
-title: 'Thailand: The '
+title: 'Thailand: Magical country and amazing food'
 ---
 ## Lorem ipsum
 
