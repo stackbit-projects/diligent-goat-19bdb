@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'I''m a writer, a traveller, and a dreamer'
+    title: 'I''m a writer, a traveler, and a dreamer'
     subtitle: >-
       I will handle your website design and production, social media accounts
       and digital advertisements for you, at an affordable price.
